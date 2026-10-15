@@ -1,0 +1,42 @@
+
+# Python
+**/.venv/
+**/venv/
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.env.*
+
+# Unity generated files
+UnityClient/Library/
+UnityClient/Temp/
+UnityClient/Obj/
+UnityClient/Build/
+UnityClient/Builds/
+UnityClient/Logs/
+UnityClient/UserSettings/
+UnityClient/MemoryCaptures/
+UnityClient/Recordings/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs and temporary outputs
+*.log
+*.tmp
+
+# Local datasets and recordings
+data/
+datasets/
+recordings/
